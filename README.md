@@ -64,3 +64,8 @@ ng serve
 
 **File Storage**
 * The drawing data is stored in a JSON file located at a path specified in the configuration. If the file does not exist, it will be created automatically. If the file is empty or contains invalid JSON, it will be reset.
+
+# Screenshots :
+![](https://github.com/oguzcihan/map-line-manager-app/blob/master/img/1.png)
+![](https://github.com/oguzcihan/map-line-manager-app/blob/master/img/2.png)
+![](https://github.com/oguzcihan/map-line-manager-app/blob/master/img/3.png)
